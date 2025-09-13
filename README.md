@@ -10,3 +10,7 @@ It compares a custom CNN baseline with Transfer Learning approaches (MobileNetV2
 - **Training & evaluation pipeline**
 - **Model performance visualization** (accuracy/loss plots, confusion matrix, classification report)
 
+# Installation
+Clone project
+https://github.com/Hieu29052005/image_classifier.git
+cd image_classifier
